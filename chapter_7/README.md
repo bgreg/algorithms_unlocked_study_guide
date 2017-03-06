@@ -8,3 +8,6 @@
   * [Presentation style Video](http://www.geeksforgeeks.org/printing-longest-common-subsequence/)
   * [White Board video with matrix](https://www.youtube.com/watch?v=NnD96abizww)
 
+* String Transformation
+  * Useful in bioinformatics
+  * [Example code](http://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/)
