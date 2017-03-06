@@ -15,3 +15,5 @@ Collaborative study guide for [“Algorithms Unlocked.”](https://itun.es/us/mQ
 10. [Hard? Problems](../master/chapter_10)
 
 
+## Useful Notes to survive the book
+* [Big-O Cheatsheet](http://bigocheatsheet.com/)
