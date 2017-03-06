@@ -1,4 +1,4 @@
-## Prerequisite materials
+## Supplementary materials
 
 * [Paper on Dual Pivot quick sort](http://codeblab.com/wp-content/uploads/2009/09/DualPivotQuicksort.pdf)
 * [Counting Sort video](https://youtu.be/7zuGmKfUt7s)

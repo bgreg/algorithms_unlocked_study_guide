@@ -1,4 +1,4 @@
-## Prerequisite materials
+## Supplementary materials
 
 * [video of Floyd-Warshall](https://www.youtube.com/watch?v=4OQeCuLYj-4)
 * [Video of binary heaps](https://www.youtube.com/watch?v=WCm3TqScBM8)

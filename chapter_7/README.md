@@ -1,4 +1,4 @@
-## Prerequisite materials
+## Supplementary materials
 
 * [Longest_common_subsequence_problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
   * Computing this for arbitrary sized strings and squences is considered [Np-Hard](https://en.wikipedia.org/wiki/NP-hardness)
