@@ -7,6 +7,7 @@
   * [Another explination](https://www.ics.uci.edu/~eppstein/161/960229.html)
   * [Presentation style Video](http://www.geeksforgeeks.org/printing-longest-common-subsequence/)
   * [White Board video with matrix](https://www.youtube.com/watch?v=NnD96abizww)
+  * [Another explanation with Swift implementation](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Longest%20Common%20Subsequence)
 
 * String Transformation
   * Useful in bioinformatics
