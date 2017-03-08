@@ -1,0 +1,77 @@
+Ch 1    What Are Algorithms And Why Should You Care ?
+
+Algorithm efficiency is determined by
+
+1. accuracy and by the time  it takes to run aka `run time`
+2. memory footprint
+
+Resources the algorithm might need:
+a.random bits
+b.network communications
+c.disk operations for algorithms that work with disk resident data
+
+Run Time of Algorithm is Dependent on:
+
+1. speed of computer
+2. programming language in which algo is implemented
+3. compiler / interpreter that translates program that runs on the computer
+4. skill of programmer
+5. concurrent activity happening on machine
+
+
+Assumption:
+Algorithm runs on 1 computer with all its data in memory
+
+Function:
+
+MATHEMATICS
+a relationship or expression involving one or more variables.
+"the function (bx + c)"
+
+To compare efficiency of more than one algorithm:
+
+1. determine how long algorithm takes as a function of the size of its inputs
+
+GPS example inputs would include:
+# of intersections
+# of roads connecting intersections in the map
+
+2.speed at which running time grows with input size aka rate of growth
+
+Focus is on the **order of growth** of the running time.
+
+When looking at run time we focus on the highest rate of growth for determination and we drop the lowest.
+
+In 20n3 + 100n2 + 300n + 200
+
+We express run time as n3 dropping everything else.
+Coefficients we ignore matter yet they're highly dependent on extrinsic factors like 1 - 5 in Run Time of an Algo.
+
+Algorithms are as much a technology as anything that goes inside your computer. We use algorithms everyday ex: search engines, search web & decide in which order to present results. GPS - google maps, Bing, Yahoo etc.
+
+
+
+Algos as a technology -
+
+-lg n  is the inverse of an exponential function it grows slowly with n - it is the base 2 logarithm of n or log2 n.
+
+-growth of n lg n vs. n2 trades a factor of n for a factor of
+only lg n, and that’s a deal you should take any day.
+
+
+Computer [A] n2 is faster than Computer [B] n lg n
+
+
+Slow run time growth results in faster Run Times
+and Faster computer run times
+
+
+As problems size increases so does the value of using n lg n algorithm.
+The results will be faster with n lg n than with n2.
+
+
+System performance depends on efficient algorithms
+
+Word Algorithm may come from the Persian mathematician 9th century.
+
+Big O Notation used to talk about the efficiency of Algorithms.
