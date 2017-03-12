@@ -1,12 +1,18 @@
-<h1>Binary Search</h1>
-***
-<h3>Description</h3>
-Binary search is a fast search algorithm with run-time complexity of Ο(log n). This search algorithm works on the principle of divide and conquer. For this algorithm to work properly, the data collection should be in the sorted form.
+# Binary Search
 
-Binary search looks for a particular item by comparing the middle most item of the collection. If a match occurs, then the index of item is returned. If the middle item is greater than the item, then the item is searched in the sub-array to the left of the middle item. Otherwise, the item is searched for in the sub-array to the right of the middle item. This process continues on the sub-array as well until the size of the subarray reduces to zero.
-***
-<h3>Resources</h3>
-<ol>
-  <li>[Kahn Academy](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)</li>
-  <li>[Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm)</li>
-</ol>
+### Description
+
+Binary search is a fast search algorithm with run-time complexity of Ο(log n).
+This search algorithm works on the principle of divide and conquer. For this
+algorithm to work properly, the data collection should be in the sorted form.
+Binary search looks for a particular item by comparing the middle most item of
+the collection. If a match occurs, then the index of item is returned. If the
+middle item is greater than the item, then the item is searched in the
+sub-array to the left of the middle item. Otherwise, the item is searched for
+in the sub-array to the right of the middle item. This process continues on the
+sub-array as well until the size of the subarray reduces to zero.
+
+### Resources
+
+1.  [Kahn Academy](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+2.  [Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm)
