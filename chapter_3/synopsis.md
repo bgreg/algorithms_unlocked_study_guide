@@ -17,5 +17,5 @@ should travel with it when elements are moved around.
 <li><i>pages 32 - 35</i>[Selection Sort](file:/selection_sort.md)</li>
 <li><i>pages 35 - 40</i>[Insertion Sort](file:/insertion_sort.md)</li>
 <li><i>pages 40 - 49</i>[Merge Sort](file:/merge_sort.md)</li>
-<li><i>pages 49 - 57</i>[Quick Sort](file:/qbuick_sort.md)</li>
+<li><i>pages 49 - 57</i>[Quick Sort](qbuick_sort.md)</li>
 </ol>
