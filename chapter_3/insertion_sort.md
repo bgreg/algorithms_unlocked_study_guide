@@ -9,7 +9,7 @@ sub-list, has to find its appropriate place and then it has to be inserted
 there. Hence the name, insertion sort. The array is searched sequentially and
 unsorted items are moved and inserted into the sorted sub-list (in the same
 array). This algorithm is not suitable for large data sets as its average and
-worst case complexity are of Ο(n2), where n is the number of items. ***
+worst case complexity are of Ο(n2), where n is the number of items. 
 
 ### Properties
 
