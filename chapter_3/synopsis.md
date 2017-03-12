@@ -8,8 +8,8 @@ dog would come after doll in a dictionary
 
 ## Topics
 
-1.  _pages 28 - 32_ [Binary Search](file:/binary_seach.md)
-2.  _pages 32 - 35_ [Selection Sort](file:/selection_sort.md)
-3.  _pages 35 - 40_ [Insertion Sort](file:/insertion_sort.md)
-4.  _pages 40 - 49_ [Merge Sort](file:/merge_sort.md)
-5.  _pages 49 - 57_ [Quick Sort](qbuick_sort.md)
+1.  _pages 28 - 32_ [Binary Search](binary_seach.md)
+2.  _pages 32 - 35_ [Selection Sort](selection_sort.md)
+3.  _pages 35 - 40_ [Insertion Sort](insertion_sort.md)
+4.  _pages 40 - 49_ [Merge Sort](merge_sort.md)
+5.  _pages 49 - 57_ [Quick Sort](quick_sort.md)
