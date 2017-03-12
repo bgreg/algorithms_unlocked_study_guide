@@ -1,21 +1,15 @@
-<h2>Vocabulary</h2>
-***
-<strong>lexicographic ordering: </strong><i>page 25</i>one element
-is less than another if it would come before the other element in a dictionary.
-<i>i.e</i> doll < dog because dog would come after doll in a dictionary
+## Vocabulary
 
-<strong>key or sort key: </strong><i>page 26</i>aspect that a list is ordered by.
+**lexicographic ordering:** _page 25_, one element is less than another if it would come before the other element in a dictionary. _i.e_ doll < dog because
+dog would come after doll in a dictionary
+**key or sort key:** _page 26_, aspect that a list is ordered by.
+**satellite data:** _page 26_, the information that is associated with the sort key and should travel with it when elements are moved around.
+**sorting** _page 28_, put into well defined order.
 
-<strong>satellite data: </strong><i>page 26</i>the information that is associated with the sort key and
-should travel with it when elements are moved around.
+## Topics
 
-<strong>sorting</strong><i>page 28</i>put into well defined order.
-
-<h2>Topics</h2>
-<ol>
-<li><i>pages 28 - 32</i>[Binary Search](file:/binary_seach.md)</li>
-<li><i>pages 32 - 35</i>[Selection Sort](file:/selection_sort.md)</li>
-<li><i>pages 35 - 40</i>[Insertion Sort](file:/insertion_sort.md)</li>
-<li><i>pages 40 - 49</i>[Merge Sort](file:/merge_sort.md)</li>
-<li><i>pages 49 - 57</i>[Quick Sort](qbuick_sort.md)</li>
-</ol>
+1.  _pages 28 - 32_ [Binary Search](file:/binary_seach.md)
+2.  _pages 32 - 35_ [Selection Sort](file:/selection_sort.md)
+3.  _pages 35 - 40_ [Insertion Sort](file:/insertion_sort.md)
+4.  _pages 40 - 49_ [Merge Sort](file:/merge_sort.md)
+5.  _pages 49 - 57_ [Quick Sort](qbuick_sort.md)
