@@ -1,9 +1,11 @@
 ## Vocabulary
 
-**lexicographic ordering:** _page 25_, one element is less than another if it would come before the other element in a dictionary. _i.e_ doll < dog because
-dog would come after doll in a dictionary
+**lexicographic ordering:** _page 25_, one element is less than another if it would come before the other element in a dictionary. _i.e_ doll < dog because dog would come after doll in a dictionary
+
 **key or sort key:** _page 26_, aspect that a list is ordered by.
+
 **satellite data:** _page 26_, the information that is associated with the sort key and should travel with it when elements are moved around.
+
 **sorting** _page 28_, put into well defined order.
 
 ## Topics
