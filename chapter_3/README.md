@@ -5,3 +5,5 @@
 * [Unstable algorithms](http://stackoverflow.com/questions/15125552/what-is-the-meaning-of-stable-and-unstable-for-various-sorting-algorithms)
 * [merge sort in ruby video](https://youtu.be/Vn-qJijXgf0)
 * [linear search video](https://www.youtube.com/watch?v=CX2CYIJLwfg)
+* [Sorting Demos](http://sorting.at/)
+* [Sorting Comparisons](https://www.toptal.com/developers/sorting-algorithms)
