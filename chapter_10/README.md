@@ -1,5 +1,7 @@
 ## Supplementary materials
 
+If the solution to a problem is easy to check for correctness, is the problem easy to solve?
+
 * [wiki](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 * ...
 * ...
